@@ -5,6 +5,6 @@ def two_sum(nums, target)
     return hash[target - num], i
   end
     hash[num] = i
-  
+
 end
 end
